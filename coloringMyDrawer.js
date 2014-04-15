@@ -5,9 +5,9 @@
 // Customizing constants.
 var NON_ALPHABET_DIVS = [];
 // For examples.
-// Korean: ['°΅', '¶σ', '»η', 'Βχ']
-// Chinese: ['μι', '?', '?', '?', 'ι¥', 'χά']
-// Japanese: ['ªΆ', 'ªµ', 'ªΚ', 'ªή', 'ªι']
+// Korean: ['κ°€', 'λΌ', 'μ‚¬', 'μ°¨']
+// Chinese: ['δΈ€', 'ε€€', 'ζ€€', 'η€€', 'θ€€', 'ι€€']
+// Japanese: ['γ‚', 'γ•', 'γª', 'γΎ', 'γ‚‰']
 
 // Constants.
 var IDX_ID = 0;
